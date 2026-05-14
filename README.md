@@ -55,5 +55,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 This project is open source and available under the [MIT License](LICENSE).
 
 
-祝你的开源项目 Star 越来越多！如果需要针对某个具体功能再补充说明，随时告诉我。
+
 
